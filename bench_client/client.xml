@@ -1,0 +1,11 @@
+<root>
+    <log prefix="client" level="3" />
+    <gate_server ip="192.168.78.23" port="19999" sid="1" player_begin_uid="15001" player_max_count="1" reconnect_second="7200" />
+
+    <rand_teleport map_id="7" map_x="41" map_y="52" npc_id=""/>
+    <rand_teleport map_id="10" map_x="40" map_y="55" npc_id=""/>
+    <rand_teleport map_id="3" map_x="30" map_y="68" npc_id="" />
+    <rand_teleport map_id="4" map_x="33" map_y="62" npc_id="" />
+    <rand_teleport map_id="5" map_x="25" map_y="70" npc_id="" />
+</root>
+

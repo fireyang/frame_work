@@ -1,0 +1,15 @@
+<root>
+    <log prefix="gate_server" level="4" />
+    <client_acceptor listen_ip="0.0.0.0" listen_port="19999" online_threshold="110000" />
+    
+
+    <!-- check表示是否做token验证， type = 1表示xy.com平台， type=1 key1表示私钥 valid_duration token有效时长(秒)-->
+    <token_check check="false" type="1" key1="test" key2="not used" valid_duration="60"/>
+    <shutdown delay_sec="5" />
+    <message_check threshold="true" seq="false" heartbeat="false" active_heartbeat="true" />
+
+  <server_id_list>
+    <server_id id="1" />
+  </server_id_list>
+</root>
+

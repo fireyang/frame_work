@@ -1,0 +1,86 @@
+2013-11-25 10:10:33,info,[gate_application.cpp:188]process max_time:0 max_action:0 avg_time:0 online:0
+2013-11-25 10:10:33,info,[gate_application.cpp:191]zone_connection count:0 total:0
+2013-11-25 10:10:37,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:10:37,info,[client_connection.cpp:152]process player login request 437:nice_body
+2013-11-25 10:10:37,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:10:42,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:10:42,info,[client_connection.cpp:152]process player login request 442:nice_body
+2013-11-25 10:10:42,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:10:47,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:10:47,info,[client_connection.cpp:152]process player login request 447:nice_body
+2013-11-25 10:10:47,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:10:52,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:10:52,info,[client_connection.cpp:152]process player login request 452:nice_body
+2013-11-25 10:10:52,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:10:57,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:10:57,info,[client_connection.cpp:152]process player login request 457:nice_body
+2013-11-25 10:10:57,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:02,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:02,info,[client_connection.cpp:152]process player login request 462:nice_body
+2013-11-25 10:11:02,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:07,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:07,info,[client_connection.cpp:152]process player login request 467:nice_body
+2013-11-25 10:11:07,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:12,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:12,info,[client_connection.cpp:152]process player login request 472:nice_body
+2013-11-25 10:11:12,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:17,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:17,info,[client_connection.cpp:152]process player login request 477:nice_body
+2013-11-25 10:11:17,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:22,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:22,info,[client_connection.cpp:152]process player login request 482:nice_body
+2013-11-25 10:11:22,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:27,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:27,info,[client_connection.cpp:152]process player login request 487:nice_body
+2013-11-25 10:11:27,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:32,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:32,info,[client_connection.cpp:152]process player login request 492:nice_body
+2013-11-25 10:11:32,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:33,info,[gate_application.cpp:188]process max_time:0 max_action:0 avg_time:0 online:0
+2013-11-25 10:11:33,info,[gate_application.cpp:191]zone_connection count:0 total:0
+2013-11-25 10:11:37,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:37,info,[client_connection.cpp:152]process player login request 497:nice_body
+2013-11-25 10:11:37,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:42,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:42,info,[client_connection.cpp:152]process player login request 502:nice_body
+2013-11-25 10:11:42,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:47,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:47,info,[client_connection.cpp:152]process player login request 507:nice_body
+2013-11-25 10:11:47,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:52,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:52,info,[client_connection.cpp:152]process player login request 512:nice_body
+2013-11-25 10:11:52,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:11:57,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:11:57,info,[client_connection.cpp:152]process player login request 517:nice_body
+2013-11-25 10:11:57,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:02,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:02,info,[client_connection.cpp:152]process player login request 522:nice_body
+2013-11-25 10:12:02,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:07,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:07,info,[client_connection.cpp:152]process player login request 527:nice_body
+2013-11-25 10:12:07,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:12,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:12,info,[client_connection.cpp:152]process player login request 532:nice_body
+2013-11-25 10:12:12,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:17,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:17,info,[client_connection.cpp:152]process player login request 537:nice_body
+2013-11-25 10:12:17,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:22,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:22,info,[client_connection.cpp:152]process player login request 542:nice_body
+2013-11-25 10:12:22,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:27,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:27,info,[client_connection.cpp:152]process player login request 547:nice_body
+2013-11-25 10:12:27,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:32,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:32,info,[client_connection.cpp:152]process player login request 552:nice_body
+2013-11-25 10:12:32,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:33,info,[gate_application.cpp:188]process max_time:0 max_action:0 avg_time:0 online:0
+2013-11-25 10:12:33,info,[gate_application.cpp:191]zone_connection count:0 total:0
+2013-11-25 10:12:37,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:37,info,[client_connection.cpp:152]process player login request 557:nice_body
+2013-11-25 10:12:37,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:12:38,debug,[gate_application.cpp:36]client 192.168.78.23 connected fd:6
+2013-11-25 10:12:38,info,[client_connection.cpp:57]close client ip:192.168.78.23 fd:6 uid:0 role_id:0 type:5 errno:0
+2013-11-25 10:13:33,info,[gate_application.cpp:188]process max_time:0 max_action:0 avg_time:0 online:0
+2013-11-25 10:13:33,info,[gate_application.cpp:191]zone_connection count:0 total:0
+2013-11-25 10:13:57,info,[gate_application.cpp:176]system stopped

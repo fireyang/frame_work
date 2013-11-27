@@ -1,0 +1,6 @@
+<root>
+    <log prefix="gate_server" level="4" />
+    <client_acceptor listen_ip="0.0.0.0" listen_port="6666" />
+    <server_acceptor listen_ip="0.0.0.0" listen_port="6665" />
+</root>
+
